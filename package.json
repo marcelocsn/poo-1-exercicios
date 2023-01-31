@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mascariep/poo-1-template.git"
+    "url": "git+https://github.com/marcelocsn/poo-1-exercicios.git"
   },
   "bugs": {
-    "url": "https://github.com/Mascariep/poo-1-template/issues"
+    "url": "https://github.com/Mascariep/poo-1-exercicios/issues"
   },
-  "homepage": "https://github.com/Mascariep/poo-1-template#readme"
+  "homepage": "https://github.com/Mascariep/poo-1-exercicios#readme"
 }
